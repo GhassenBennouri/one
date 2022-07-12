@@ -1,2 +1,2 @@
 console.log("haha")
-console.log("gati")
+console.log("fatt")
